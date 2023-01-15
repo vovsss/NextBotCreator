@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "{project_name}/{project_name}"
+	"$translucent" 1
+	"$vertexalpha" 1
+}

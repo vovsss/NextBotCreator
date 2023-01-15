@@ -1,0 +1,5 @@
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\publish\NextBotCreator.exe
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\publish\NextBotCreator.dll
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\publish\NextBotCreator.deps.json
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\publish\NextBotCreator.runtimeconfig.json
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\publish\NextBotCreator.pdb

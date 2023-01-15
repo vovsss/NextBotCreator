@@ -1,0 +1,7 @@
+[06.10.2022 20:05:41] Logger
+
+Logging starts
+
+
+
+

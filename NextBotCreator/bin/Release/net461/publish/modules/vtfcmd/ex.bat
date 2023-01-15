@@ -1,0 +1,1 @@
+VTFCmd.exe -file "C:\Users\vova4\Documents\NextBotCreator\programms\vtfcmd\example.jpg" -format "dxt5"

@@ -1,0 +1,8 @@
+ {
+ 	"title"		:	"{project_name}", 	
+        "type"		:	"ServerContent",
+	"tags"		:	[],
+ 	"ignore"	:
+ 	[
+ 	]
+ }

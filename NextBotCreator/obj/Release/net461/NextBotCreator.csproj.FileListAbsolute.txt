@@ -1,0 +1,15 @@
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.csprojAssemblyReference.cache
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.EndForm.resources
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.MainForm - Копировать.resources
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.MainForm.resources
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.Properties.Resources.resources
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.SoundsForm.resources
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.csproj.GenerateResource.cache
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.AssemblyInfoInputs.cache
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.AssemblyInfo.cs
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.csproj.CoreCompileInputs.cache
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\net461\NextBotCreator.exe.config
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\net461\NextBotCreator.exe
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\net461\NextBotCreator.pdb
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.exe
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\net461\NextBotCreator.pdb

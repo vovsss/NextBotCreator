@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "{project_name}/{project_name}"
+	"$alphatest" 1
+}

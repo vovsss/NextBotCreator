@@ -1,0 +1,19 @@
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\NextBotCreator.exe
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\NextBotCreator.deps.json
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\NextBotCreator.runtimeconfig.json
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\NextBotCreator.runtimeconfig.dev.json
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\NextBotCreator.dll
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\bin\Release\netcoreapp3.1\NextBotCreator.pdb
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.csprojAssemblyReference.cache
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.EndForm.resources
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.MainForm - Копировать.resources
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.MainForm.resources
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.Properties.Resources.resources
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.SoundsForm.resources
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.csproj.GenerateResource.cache
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.AssemblyInfoInputs.cache
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.AssemblyInfo.cs
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.csproj.CoreCompileInputs.cache
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.dll
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.pdb
+C:\Users\vova4\source\repos\NextBotCreator\NextBotCreator\obj\Release\netcoreapp3.1\NextBotCreator.genruntimeconfig.cache
