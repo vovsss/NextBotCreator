@@ -1,4 +1,4 @@
 # NextBotCreator
-Инструмент для создания NextBot`ов в игре Garry`s Mod
+Инструмент для создания некстботов в игре Garry`s Mod
 
-Для использования откройте файл NextBotCreator\bin\Release\net461\NextBotCreator.exe и следуйте инструкциям
+Для использования откройте файл `NextBotCreator\bin\Release\net461\NextBotCreator.exe` и следуйте инструкциям
